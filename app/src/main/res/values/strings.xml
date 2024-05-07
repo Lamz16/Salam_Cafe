@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Salam Cafe</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_catalog">Catalog</string>
+    <string name="search_menu">Search your menu</string>
+    <string name="back">Back</string>
+    <string name="price">Rp. %s</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="add_to_cart">Add to cart : Rp. %s</string>
+    <string name="shared_message">Hello, I would like to pay for a number of %1$s menus with a total price of Rp. %2$s</string>
+    <string name="total_order">Total order : Rp. %s</string>
+    <string name="coffe_order">Order at cafe salam</string>
+</resources>
